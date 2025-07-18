@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/iaping/go-okx/examples/rest"
-	"github.com/iaping/go-okx/rest/api"
-	"github.com/iaping/go-okx/rest/api/convert"
+	"github.com/bryanchen463/go-okx/examples/rest"
+	"github.com/bryanchen463/go-okx/rest/api"
+	"github.com/bryanchen463/go-okx/rest/api/convert"
 )
 
 func main() {
