@@ -33,6 +33,7 @@ type Position struct {
 	AvailPos    string `json:"availPos"`
 	AvgPx       string `json:"avgPx"`
 	Upl         string `json:"upl"`
+	RealizedPnl string `json:"realizedPnl"`
 	UplRatio    string `json:"uplRatio"`
 	InstId      string `json:"instId"`
 	Lever       string `json:"lever"`
